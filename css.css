@@ -1,0 +1,64 @@
+
+body, html {
+	width: 100%;
+	height: 100%;
+	
+	font-family: 'Rokkitt', serif;
+	background: url(comida.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+
+}
+
+
+h1	{
+	font-size: 3.7rem;
+	color: #FFFFFF;
+}
+
+hr {
+	border-top: 3.5px solid #D9D8CE;
+    opacity: .99;
+  	border-radius: 34px;
+  	width: 70px;
+  	margin: revert;
+  	margin: 293px 293;
+
+	
+}
+
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: fit-content;
+}
+
+
+.buffer {
+	height: 20px;
+}
+
+.btn {
+	font-size: 14px;
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+} 
+
+.btn-primary {
+	background-color: #B3B2AA;
+	border-color: #B3B2AA;
+
+}
+
+.btn-primary:hover {
+	background-color: #D9D8CE;
+	border-color: #D9D8CE;
+} 
+.btn-xl {
+	padding: 0.5rem 1rem;
+}
+
+
+
+
